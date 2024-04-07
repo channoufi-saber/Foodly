@@ -1,0 +1,19 @@
+{
+  "name": "foodly_backend",
+  "version": "1.0.0",
+  "description": "backend of foodly",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/channoufi-saber/Foodly.git"
+  },
+  "author": "Channoufi Saber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/channoufi-saber/Foodly/issues"
+  },
+  "homepage": "https://github.com/channoufi-saber/Foodly#readme"
+}
