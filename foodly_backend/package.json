@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/channoufi-saber/Foodly/issues"
   },
-  "homepage": "https://github.com/channoufi-saber/Foodly#readme"
+  "homepage": "https://github.com/channoufi-saber/Foodly#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.6.3"
+     }
 }
